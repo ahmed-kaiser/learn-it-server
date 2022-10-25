@@ -1,0 +1,32 @@
+[
+    {
+        "id": "cc201",
+        "name": "DSA",
+        "total_course": 1
+    },
+    {
+        "id": "cc202",
+        "name": "System Design",
+        "total_course": 1
+    },
+    {
+        "id": "cc203",
+        "name": "Data Science",
+        "total_course": 1
+    },
+    {
+        "id": "cc204",
+        "name": "Backend Development",
+        "total_course": 1
+    },
+    {
+        "id": "cc205",
+        "name": "Programming Fundamental",
+        "total_course": 2
+    },
+    {
+        "id": "cc206",
+        "name": "Other",
+        "total_course": 2
+    }
+]

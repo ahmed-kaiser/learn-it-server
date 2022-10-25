@@ -2,6 +2,7 @@
     {
         "id": "c101",
         "title": "Data Structures & Algorithms in Python",
+        "category_id": "cc201",
         "description": "Master Data Structures & Algorithms using Python Programming! Learn to implement DSA such as: String, hashing, DP, & more in Python Language. Master DSA fundamentals now in Python & Start Learning Today!",
         "image": "../images/course1.jpg",
         "ratting": 5,
@@ -90,6 +91,7 @@
     {
         "id": "c102",
         "title": "Python Programming Foundation",
+        "category_id": "cc205",
         "description": "A beginner-friendly course designed to help start learning Python language from scratch. Learn Python basics, Variables & Data types, Input & Output, Operators, and more as you build your python foundation real strong with us!",
         "image": "../images/course2.jpg",
         "ratting": 5,
@@ -169,6 +171,7 @@
     {
         "id": "c103",
         "title": "Complete Test Series for Product",
+        "category_id": "cc206",
         "description": "A Complete Test Series to fulfill your Interview Preparation needs. Practice 1000+ company-specific interview questions to improve your chances of getting a job at product-based companies like Amazon, Meta, Google, Microsoft & more.",
         "image": "../images/course3.jpg",
         "ratting": 4.5,
@@ -246,6 +249,7 @@
     {
         "id": "c104",
         "title": "C++",
+        "category_id": "cc205",
         "description": "This self paced C++ STL Course covers the basic to advanced concepts of C++ STL containers, iterators, OOPs & more! Curated by industry experts, get a complete package of video tutorials, assessment tests, & more. Start learning today!",
         "image": "../images/course4.jpg",
         "ratting": 5,
@@ -330,6 +334,7 @@
     {
         "id": "c105",
         "title": "Complete Interview Preparation",
+        "category_id": "cc206",
         "description": "An interview-centric course designed to prepare you for the role of SDE for both product and service based companies. A placement preparation pack built with years of expertise. Prepare C++, Java, DSA, CS Theory concepts and much more!",
         "image": "../images/course5.png",
         "ratting": 5,
@@ -411,6 +416,7 @@
     {
         "id": "c106",
         "title": "System Design",
+        "category_id": "cc202",
         "description": "LIVE System Design classes for individuals looking to crack SDE,SSE,Architect,Technical PM, and SDM jobs. Mentored by industry experts, learn the optimized approach to solve questions and design concepts with real-world examples!",
         "image": "../images/course6.png",
         "ratting": 5,
@@ -501,6 +507,7 @@
     {
         "id": "c107",
         "title": "JAVA Backend Development",
+        "category_id": "cc204",
         "description": "Learn backend development with Hibernate, RESTful APIs and many such tools. LIVE classes to teach you Java concepts & how to develop a complete webapp. Also includes: 3 projects, doubt assistance, Java course content & more!",
         "image": "../images/course7.png",
         "ratting": 5,
@@ -599,6 +606,7 @@
     {
         "id": "c108",
         "title": "Complete Data Science Program",
+        "category_id": "cc203",
         "description": "A 360-degree Learning experience designed for geeks who wish to get hands-on Data Science. Mentored by industry experts, learn to apply methods and techniques, and acquire analytical skills. Master the Art of Data Science Now!",
         "image": "../images/course8.jpg",
         "ratting": 4.5,
