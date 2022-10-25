@@ -1,0 +1,705 @@
+[
+    {
+        "id": "c101",
+        "title": "Data Structures & Algorithms in Python",
+        "description": "Master Data Structures & Algorithms using Python Programming! Learn to implement DSA such as: String, hashing, DP, & more in Python Language. Master DSA fundamentals now in Python & Start Learning Today!",
+        "image": "../images/course1.jpg",
+        "ratting": 5,
+        "price": "$120",
+        "instructor": {
+            "name": "Sandeep Jain",
+            "image": "../images/instructor.jpg",
+            "about": "Mr. Sandeep Jain graduated from Dr. Abdul Kalam Technical University with a B.Tech in Computer Science and Engineering. He completed his Master's degree from IIT-Roorkee and has worked as a full-time Software Developer at D.E. Shaw & Co. His passion for teaching led him to join JIIT Noida as an Assistant Professor. "
+        },
+        "you-will-learn": [
+            "Advanced DS such as: Linked Lists, Heaps, Graph etc",
+            "Analysis of Algorithms: Best, Average and Worst Cases, Big O Notation, Space Complexity etc",
+            "How to solve DSA problems using Python",
+            "How to become an efficient problem-solver",
+            "DSA questions and concepts"
+        ],
+        "benefit": [
+            "Lifetime Access To The Course",
+            "Access to Job Portal",
+            "Track-based Learning",
+            "Course Completion Certificate trusted by top companies",
+            "Assessment tests",
+            "Doubt Support Assistance"
+        ],
+        "course-content": [
+            {
+                "Introduction": [
+                    "Analysis of Algorithms, Asymptotic Analysis, Order of Growth, Best, Average and Worst Cases, Asymptotic Notations and more."
+                ]
+            },
+            {
+                "Mathematics": [
+                    "Python DSA - Count Digits, Palindrome Number, Factorial of a number, Trailing Zeros in Factorial, GCD and HCF of two numbers and more.",
+                    "Important Practice Problems"
+                ]
+            },
+            {
+                "Bit Magic": [
+                    "Bitwise Operator in Python, Check Kth bit is set or not, Count Set Bits, Power of Two, One Odd Occuring and more.",
+                    "Important Practice Problems"
+                ]
+            },
+            {
+                "List": [
+                    "Basic - Introduction, Working of List in Python, Average or Mean of a List, Separate Even and Odd, Get Smaller Elements and more",
+                    "Advanced - Left Rotate by d Places, Maximum difference, Stock Buy &Sell, Trapping Rainwater, Maximum Consecutive 1s and more",
+                    "Important Practice Problems"
+                ]
+            },
+            {
+                "Recursion": [
+                    "Basic - Applications of Recursion, Writing Base Cases in Recursion, Tail Recursion, Practice For Recursion and more.",
+                    "Advanced - Subset of a given string, Printing all Permutations, Tower of Hanoi in Python, Josephus Problem in Python and more.",
+                    "Important Practice Problems"
+                ]
+            },
+            {
+                "Searching": [
+                    "Basics - Binary Search in Python, Recursive Binary Search in Python, Analysis of Binary Search, Index of first occurrence in a sorted array and more.",
+                    "Advanced - Search in Sorted Rotated Array, Median of two sorted arrays, Repeating Elements Part, Allocate Minimum Pages (Naive Method, Binary Search)",
+                    "Important Practice Problems"
+                ]
+            }
+        ],
+        "faq": [
+            {
+                "Do we have doubt support in this program?": "You may get additional feature of doubt support. While purchasing this course, click on 'Add to Cart' for Doubt Support and Assistance."
+            },
+            {
+                "How can I register for the course?": "You need to sign up for the course. After signing up, you need to pay when the payment link opens."
+            },
+            {
+                "What type of certificate will be offered in this program": "Once the course is completed. You'll be getting a course completion certificate."
+            },
+            {
+                "When can I make the payment for the course?": "The payment link will be available on the course page."
+            },
+            {
+                "Will the course content be available after the course end date?": "Course content comes with lifetime validity."
+            },
+            {
+                "What features does Doubt Support have?": "Doubt support helps you clear your doubt of any GFG and codeforces courses/problems. You can raise your doubt anytime. Our doubt support assistance is available 24x7."
+            }
+        ]
+    },
+    {
+        "id": "c102",
+        "title": "Python Programming Foundation",
+        "description": "A beginner-friendly course designed to help start learning Python language from scratch. Learn Python basics, Variables & Data types, Input & Output, Operators, and more as you build your python foundation real strong with us!",
+        "image": "../images/course2.jpg",
+        "ratting": 5,
+        "price": "$120",
+        "instructor": {
+            "name": "Sandeep Jain",
+            "image": "../images/instructor.jpg",
+            "about": "Mr. Sandeep Jain graduated from Dr. Abdul Kalam Technical University with a B.Tech in Computer Science and Engineering. He completed his Master's degree from IIT-Roorkee and has worked as a full-time Software Developer at D.E. Shaw & Co. His passion for teaching led him to join JIIT Noida as an Assistant Professor. "
+        },
+        "you-will-learn": [
+            "Basics of Python",
+            "Functions",
+            "String",
+            "How to solve coding problems pertaining to each concept"
+        ],
+        "benefit": [
+            "Lifetime Access To The Course",
+            "Access to Job Portal",
+            "Track-based Learning",
+            "Course Completion Certificate trusted by top companies",
+            "Assessment tests",
+            "Doubt Support Assistance"
+        ],
+        "course-content": [
+            {
+                "Python Basics": [
+                    "Know about background of Python, why do we need Programing Languages, Python Installation and First Program, Comments in Python etc"
+                ]
+            },
+            {
+                "Variables and Data Types": [
+                    "Learn about variables in Python, Swap two Variables, Tuples, Set , Dictionary in Python , Type conversion in Python etc"
+                ]
+            },
+            {
+                "Input and Output in Python": [
+                    "Get to know all about inputs, outputs and print in Python"
+                ]
+            },
+            {
+                "Operators": [
+                    "Get to know all about Arithmetic Operators, Logical Operators, Membership Test Operators, Bitwise Operators, Find Last Digit in Python etc"
+                ]
+            },
+            {
+                "Loops": [
+                    "Get to know all about For loops, While loops, Nested loops, Break & Continue statements, Printing Triangle Pattern, Factorial, GCD, LCM , Fibonacci numbers, Prime numbers etc"
+                ]
+            },
+            {
+                "Functions": [
+                    "Get to know all about introduction to Functions, Applications of Functions, Default Arguments, Keyword Arguments, Parameter Passing in Python , Global Variables in Python etc"
+                ]
+            }
+        ],
+        "faq": [
+            {
+                "Do we have doubt support in this program?": "You may get additional feature of doubt support. While purchasing this course, click on 'Add to Cart' for Doubt Support and Assistance."
+            },
+            {
+                "How can I register for the course?": "You need to sign up for the course. After signing up, you need to pay when the payment link opens."
+            },
+            {
+                "What type of certificate will be offered in this program": "Once the course is completed. You'll be getting a course completion certificate."
+            },
+            {
+                "When can I make the payment for the course?": "The payment link will be available on the course page."
+            },
+            {
+                "Will the course content be available after the course end date?": "Course content comes with lifetime validity."
+            },
+            {
+                "What features does Doubt Support have?": "Doubt support helps you clear your doubt of any GFG and codeforces courses/problems. You can raise your doubt anytime. Our doubt support assistance is available 24x7."
+            }
+        ]
+    },
+    {
+        "id": "c103",
+        "title": "Complete Test Series for Product",
+        "description": "A Complete Test Series to fulfill your Interview Preparation needs. Practice 1000+ company-specific interview questions to improve your chances of getting a job at product-based companies like Amazon, Meta, Google, Microsoft & more.",
+        "image": "../images/course3.jpg",
+        "ratting": 4.5,
+        "price": "$50",
+        "instructor": {
+            "name": "Sandeep Jain",
+            "image": "../images/instructor.jpg",
+            "about": "Mr. Sandeep Jain graduated from Dr. Abdul Kalam Technical University with a B.Tech in Computer Science and Engineering. He completed his Master's degree from IIT-Roorkee and has worked as a full-time Software Developer at D.E. Shaw & Co. His passion for teaching led him to join JIIT Noida as an Assistant Professor. "
+        },
+        "you-will-learn": [
+            "Sharpen your DSA skills by solving topic-wise Data Structure questions",
+            "Improve your coding speed and mistakes by giving Online Coding Assessments",
+            "Get prepared for the real-life interviews with  Mock Rounds",
+            "Test your preparation with company specific coding rounds"
+        ],
+        "benefit": [
+            "Lifetime Access To The Course",
+            "Access to Job Portal",
+            "Track-based Learning",
+            "Course Completion Certificate trusted by top companies",
+            "Assessment tests",
+            "Doubt Support Assistance"
+        ],
+        "course-content": [
+            {
+                "Amazon Test Series": [
+                    "Practice 200+ questions based on Arrays, Searching, Trees, Graphs etc.",
+                    "10 Assessment Tests to prepare you for the Online Coding Round of Amazon Interview process.",
+                    "Get Amazon ready through 5 mock tests based on actual Amazon interview experiences."
+                ]
+            },
+            {
+                "Flipkart Test Series": [
+                    "Practice 200+ questions based on topics such as Arrays, Stack, Queue etc.",
+                    "10 Assessment Tests to prepare you for the Online Coding Round of Flipkart Interview process.",
+                    "Get Flipkart ready through 5 mock tests based on actual Flipkart interview experiences."
+                ]
+            },
+            {
+                "Microsoft Test Series": [
+                    "Solve 200+ questions and polish all the concepts related to DSA",
+                    "10 Assessment Tests to prepare you for the Online Coding Round of Microsoft Interview process.",
+                    "Get Microsoft ready through 4 mock tests based on actual Microsoft interview experiences."
+                ]
+            },
+            {
+                "Google Test Series": [
+                    "Practice 200+ questions based on Arrays, Searching, Trees, Matrix, Sorting etc.",
+                    "10 Assessment Tests to prepare you for the Online Coding Round of Google Interview process.",
+                    "Get Google ready through 4 mock tests based on actual Google interview experiences."
+                ]
+            }
+        ],
+        "faq": [
+            {
+                "Do we have doubt support in this program?": "You may get additional feature of doubt support. While purchasing this course, click on 'Add to Cart' for Doubt Support and Assistance."
+            },
+            {
+                "How can I register for the course?": "You need to sign up for the course. After signing up, you need to pay when the payment link opens."
+            },
+            {
+                "What type of certificate will be offered in this program": "Once the course is completed. You'll be getting a course completion certificate."
+            },
+            {
+                "When can I make the payment for the course?": "The payment link will be available on the course page."
+            },
+            {
+                "Will the course content be available after the course end date?": "Course content comes with lifetime validity."
+            },
+            {
+                "What features does Doubt Support have?": "Doubt support helps you clear your doubt of any GFG and codeforces courses/problems. You can raise your doubt anytime. Our doubt support assistance is available 24x7."
+            }
+        ]
+    },
+    {
+        "id": "c104",
+        "title": "C++",
+        "description": "This self paced C++ STL Course covers the basic to advanced concepts of C++ STL containers, iterators, OOPs & more! Curated by industry experts, get a complete package of video tutorials, assessment tests, & more. Start learning today!",
+        "image": "../images/course4.jpg",
+        "ratting": 5,
+        "price": "$50",
+        "instructor": {
+            "name": "Sandeep Jain",
+            "image": "../images/instructor.jpg",
+            "about": "Mr. Sandeep Jain graduated from Dr. Abdul Kalam Technical University with a B.Tech in Computer Science and Engineering. He completed his Master's degree from IIT-Roorkee and has worked as a full-time Software Developer at D.E. Shaw & Co. His passion for teaching led him to join JIIT Noida as an Assistant Professor. "
+        },
+        "you-will-learn": [
+            "The basics of C++ and brush up on all the industry-required topics",
+            "All the important C++ STL containers, iterators and functions with the help of an in-depth explanation",
+            "How to implement STL functions during coding interviews in order to save a lot of time",
+            "Learn about many inbuilt functions and  built-in containers which help to implement complex Data Structures easily and efficiently"
+        ],
+        "benefit": [
+            "Lifetime Access To The Course",
+            "Access to Job Portal",
+            "Track-based Learning",
+            "Course Completion Certificate trusted by top companies",
+            "Assessment tests",
+            "Doubt Support Assistance"
+        ],
+        "course-content": [
+            {
+                "C++": [
+                    "Introduction,Basic Input Output,Errors,Operators and much more"
+                ]
+            },
+            {
+                "Introduction,Variables and Concepts": [
+                    "First C++ Program,Comments in C++,Data Types in C++,Variables in C++ and much more"
+                ]
+            },
+            {
+                "Flow Control, Function & Loops": [
+                    "If Else Syntax in C++,Nested If Else with Example,Functions in C++ and much more"
+                ]
+            },
+            {
+                "Arrays, String, Pointers & Reference": [
+                    "Declaring and Initializing Arrays,Array Traversal in C++ and much more"
+                ]
+            },
+            {
+                "Structure and Union": [
+                    "Struct vs Class in C++,Union in C++,Complex Number Addition Using Structure and much more"
+                ]
+            },
+            {
+                "C++ OOPS": [
+                    "Object Oriented Programming,This Pointer,Virtual Functions and much more"
+                ]
+            },
+            {
+                "Advanced": [
+                    "Exception Handling in C++,Try Throw and Catch in C++,Function Pointers and much more"
+                ]
+            }
+        ],
+        "faq": [
+            {
+                "Do we have doubt support in this program?": "You may get additional feature of doubt support. While purchasing this course, click on 'Add to Cart' for Doubt Support and Assistance."
+            },
+            {
+                "How can I register for the course?": "You need to sign up for the course. After signing up, you need to pay when the payment link opens."
+            },
+            {
+                "What type of certificate will be offered in this program": "Once the course is completed. You'll be getting a course completion certificate."
+            },
+            {
+                "When can I make the payment for the course?": "The payment link will be available on the course page."
+            },
+            {
+                "Will the course content be available after the course end date?": "Course content comes with lifetime validity."
+            },
+            {
+                "What features does Doubt Support have?": "Doubt support helps you clear your doubt of any GFG and codeforces courses/problems. You can raise your doubt anytime. Our doubt support assistance is available 24x7."
+            }
+        ]
+    },
+    {
+        "id": "c105",
+        "title": "Complete Interview Preparation",
+        "description": "An interview-centric course designed to prepare you for the role of SDE for both product and service based companies. A placement preparation pack built with years of expertise. Prepare C++, Java, DSA, CS Theory concepts and much more!",
+        "image": "../images/course5.png",
+        "ratting": 5,
+        "price": "$150",
+        "instructor": {
+            "name": "Sandeep Jain",
+            "image": "../images/instructor.jpg",
+            "about": "Mr. Sandeep Jain graduated from Dr. Abdul Kalam Technical University with a B.Tech in Computer Science and Engineering. He completed his Master's degree from IIT-Roorkee and has worked as a full-time Software Developer at D.E. Shaw & Co. His passion for teaching led him to join JIIT Noida as an Assistant Professor. "
+        },
+        "you-will-learn": [
+            "Begin from basics and move on to advanced concepts of programming languages",
+            "Concepts about OOPs",
+            "Master DSA from basic to advanced",
+            "Concepts of OOAD",
+            "Resume Building tips and hacks",
+            "Build Quality Projects to ace the interview"
+        ],
+        "benefit": [
+            "Lifetime Access To The Course",
+            "Access to Job Portal",
+            "Track-based Learning",
+            "Course Completion Certificate trusted by top companies",
+            "Assessment tests",
+            "Doubt Support Assistance"
+        ],
+        "course-content": [
+            {
+                "Programming Languages": [
+                    "Start from the basics with C++ and Java"
+                ]
+            },
+            {
+                "Object Oriented Programming": [
+                    "Learn all the concepts of OOPs"
+                ]
+            },
+            {
+                "DSA (Basics to Advanced)": [
+                    "Best in industry DSA learning experience, from basic to advanced"
+                ]
+            },
+            {
+                "Object Oriented Analysis and Design": [
+                    "Learn the often asked concepts of Object-Oriented Analysis and Design"
+                ]
+            },
+            {
+                "CS Subjects": [
+                    "Also, learn about other important CS subjects like OS, CN, DBMS, etc"
+                ]
+            },
+            {
+                "Aptitude and Reasoning": [
+                    "Learn about the frequently asked interview questions"
+                ]
+            }
+        ],
+        "faq": [
+            {
+                "Do we have doubt support in this program?": "You may get additional feature of doubt support. While purchasing this course, click on 'Add to Cart' for Doubt Support and Assistance."
+            },
+            {
+                "How can I register for the course?": "You need to sign up for the course. After signing up, you need to pay when the payment link opens."
+            },
+            {
+                "What type of certificate will be offered in this program": "Once the course is completed. You'll be getting a course completion certificate."
+            },
+            {
+                "When can I make the payment for the course?": "The payment link will be available on the course page."
+            },
+            {
+                "Will the course content be available after the course end date?": "Course content comes with lifetime validity."
+            },
+            {
+                "What features does Doubt Support have?": "Doubt support helps you clear your doubt of any GFG and codeforces courses/problems. You can raise your doubt anytime. Our doubt support assistance is available 24x7."
+            }
+        ]
+    },
+    {
+        "id": "c106",
+        "title": "System Design",
+        "description": "LIVE System Design classes for individuals looking to crack SDE,SSE,Architect,Technical PM, and SDM jobs. Mentored by industry experts, learn the optimized approach to solve questions and design concepts with real-world examples!",
+        "image": "../images/course6.png",
+        "ratting": 5,
+        "price": "$200",
+        "instructor": {
+            "name": "Utkarsh Malik",
+            "image": "../images/instructor.jpg",
+            "about": "Utkarsh is an experienced developer with 4+ years of experience who has cracked multiple offers of top PBC's namely Amazon, Arcesium, Tekion, and Dream11, and is currently working in Amazon India. He has created his mark in the ed-tech space by being a part of Crio, Educative.io, and CodeAsylums with an overall live mentoring experience of 400+ hours. He has solved 1000+ problems and is proficient in React, Node.js, Redux etc."
+        },
+        "you-will-learn": [
+            "How to design scalable systems",
+            "Tips to crack system design interviews",
+            "The intensity of the interview & how to manage your time",
+            "Real-world example questions like designing system of Uber, Twitter etc.",
+            "How to apply theory into application in real-time"
+        ],
+        "benefit": [
+            "Lifetime Access To The Course",
+            "Access to Job Portal",
+            "Track-based Learning",
+            "Course Completion Certificate trusted by top companies",
+            "Assessment tests",
+            "Doubt Support Assistance"
+        ],
+        "course-content": [
+            {
+                "Lecture 1": [
+                    "Introduction to SD Interviews, SD Process - UBER, Analysis and Data Modelling"
+                ]
+            },
+            {
+                "Lecture 2": [
+                    "Design of Large Scale System, Trade-offs - TWITTER, Analysis and Data Modelling"
+                ]
+            },
+            {
+                "Lecture 3": [
+                    "Load Balancers, SSL Termination and Passthrough, Reverse Proxy and Problem Design"
+                ]
+            },
+            {
+                "Lecture 4": [
+                    "Web Sockets & Fb Messenger Design, Monoliths & Microservices"
+                ]
+            },
+            {
+                "Lecture 5": [
+                    "O Auth 2, JWT Tokens and Problem Design"
+                ]
+            },
+            {
+                "Lecture 6": [
+                    "CDN, Caching and Problem Design"
+                ]
+            },
+            {
+                "Lecture 7": [
+                    "API Gateway, DNS, HTTPS, Zookeeper and Problem Design"
+                ]
+            },
+            {
+                "Lecture 8": [
+                    "Data Distribution in Large-scale System, Hashing and Problem Design"
+                ]
+            }
+        ],
+        "faq": [
+            {
+                "Do we have doubt support in this program?": "You may get additional feature of doubt support. While purchasing this course, click on 'Add to Cart' for Doubt Support and Assistance."
+            },
+            {
+                "How can I register for the course?": "You need to sign up for the course. After signing up, you need to pay when the payment link opens."
+            },
+            {
+                "What type of certificate will be offered in this program": "Once the course is completed. You'll be getting a course completion certificate."
+            },
+            {
+                "When can I make the payment for the course?": "The payment link will be available on the course page."
+            },
+            {
+                "Will the course content be available after the course end date?": "Course content comes with lifetime validity."
+            },
+            {
+                "What features does Doubt Support have?": "Doubt support helps you clear your doubt of any GFG and codeforces courses/problems. You can raise your doubt anytime. Our doubt support assistance is available 24x7."
+            }
+        ]
+    },
+    {
+        "id": "c107",
+        "title": "JAVA Backend Development",
+        "description": "Learn backend development with Hibernate, RESTful APIs and many such tools. LIVE classes to teach you Java concepts & how to develop a complete webapp. Also includes: 3 projects, doubt assistance, Java course content & more!",
+        "image": "../images/course7.png",
+        "ratting": 5,
+        "price": "$200",
+        "instructor": {
+            "name": "Utkarsh Malik",
+            "image": "../images/instructor.jpg",
+            "about": "Utkarsh is an experienced developer with 4+ years of experience who has cracked multiple offers of top PBC's namely Amazon, Arcesium, Tekion, and Dream11, and is currently working in Amazon India. He has created his mark in the ed-tech space by being a part of Crio, Educative.io, and CodeAsylums with an overall live mentoring experience of 400+ hours. He has solved 1000+ problems and is proficient in React, Node.js, Redux etc."
+        },
+        "you-will-learn": [
+            "Redis & Kafka with Spring Boot",
+            "Advanced Java",
+            "Spring / Spring Boot",
+            "Micro-services & related technologies used to build Java-based web applications"
+        ],
+        "benefit": [
+            "Lifetime Access To The Course",
+            "Access to Job Portal",
+            "Track-based Learning",
+            "Course Completion Certificate trusted by top companies",
+            "Assessment tests",
+            "Doubt Support Assistance"
+        ],
+        "course-content": [
+            {
+                "Week 01": [
+                    "Java OOPS Concepts: Object, Class, Inheritance,Polymorphism, Abstraction, Encapsulation",
+                    "Exception Handling in Java",
+                    "Java Collection"
+                ]
+            },
+            {
+                "Week 02": [
+                    "Streams and File Handling in Java",
+                    "Threads in Java: Multithreading related concepts, problems and their solutions",
+                    "Maven"
+                ]
+            },
+            {
+                "Week 03": [
+                    "Introduction to Web Services",
+                    "Introduction Spring Framework",
+                    "Introduction to Spring Boot",
+                    "RESTful Web Services with Spring and Spring Boot"
+                ]
+            },
+            {
+                "Week 04": [
+                    "RESTful APIs",
+                    "Introduction to MySql",
+                    "JDBC (Java Database Connectivity)",
+                    "Data Access Using JDBC Template"
+                ]
+            },
+            {
+                "Week 05": [
+                    "Introduction to JPA, Hibernate & Spring Data",
+                    "Minor Project 1: Developing a Web App (Micro-service) using Spring Boot + Hibernate + MySQL + RESTful A"
+                ]
+            },
+            {
+                "Week 06": [
+                    "Redis",
+                    "Redis with Spring Boot",
+                    "Spring Security"
+                ]
+            },
+            {
+                "Week 07": [
+                    "OAuth 2.0",
+                    "Minor Project 2: Developing a Web App (Micro-service) using Spring Boot + Hibernate + MySQL+ RESTful APIs + OAuth 2 + Security"
+                ]
+            }
+        ],
+        "faq": [
+            {
+                "Do we have doubt support in this program?": "You may get additional feature of doubt support. While purchasing this course, click on 'Add to Cart' for Doubt Support and Assistance."
+            },
+            {
+                "How can I register for the course?": "You need to sign up for the course. After signing up, you need to pay when the payment link opens."
+            },
+            {
+                "What type of certificate will be offered in this program": "Once the course is completed. You'll be getting a course completion certificate."
+            },
+            {
+                "When can I make the payment for the course?": "The payment link will be available on the course page."
+            },
+            {
+                "Will the course content be available after the course end date?": "Course content comes with lifetime validity."
+            },
+            {
+                "What features does Doubt Support have?": "Doubt support helps you clear your doubt of any GFG and codeforces courses/problems. You can raise your doubt anytime. Our doubt support assistance is available 24x7."
+            }
+        ]
+    },
+    {
+        "id": "c108",
+        "title": "Complete Data Science Program",
+        "description": "A 360-degree Learning experience designed for geeks who wish to get hands-on Data Science. Mentored by industry experts, learn to apply methods and techniques, and acquire analytical skills. Master the Art of Data Science Now!",
+        "image": "../images/course8.jpg",
+        "ratting": 4.5,
+        "price": "$250",
+        "instructor": {
+            "name": "Arpit Jain",
+            "image": "../images/instructor.jpg",
+            "about": "Arpit has 9+ years of experience in Analytics across multiple sectors such as Telecommunication, Automobile, Manufacturing, Finance etc. He has sheer interests in Data Science, Machine Learning, E-commerce, Optimization, User Experience and currently working as Senior Data Scientist and utilizing his domain knowledge in Data Analysis, Business Intelligence and Data Integration."
+        },
+        "you-will-learn": [
+            "Work with data in Python using Numpy, Pandas and Matlab.",
+            "Enhance knowledge about OS library, text files, and JSON in Python.",
+            "Kaggle for Data Science ",
+            "Selenium for Web Scraping",
+            "Lifetime access to 15+ Projects curated by experienced mentors"
+        ],
+        "benefit": [
+            "Lifetime Access To The Course",
+            "Access to Job Portal",
+            "Track-based Learning",
+            "Course Completion Certificate trusted by top companies",
+            "Assessment tests",
+            "Doubt Support Assistance"
+        ],
+        "course-content": [
+            {
+                "Getting Started with Python": [
+                    "Python Basics",
+                    "Loops in Python",
+                    "Functions in Python",
+                    "Strings in Python",
+                    "Data Structure"
+                ]
+            },
+            {
+                "Files and JSON": [
+                    "Getting started with Files",
+                    "Minor Project: Inventory Management System with Files",
+                    "Minor Project: Inventory Management System with JSON"
+                ]
+            },
+            {
+                "OS with Python": [
+                    "Getting started with OS",
+                    "Jupyter Notebook Setup",
+                    "OS with Python"
+                ]
+            },
+            {
+                "Mastering Numpy Arrays": [
+                    "Mastering Numpy Arrays"
+                ]
+            },
+            {
+                "Data Analysis with Python": [
+                    "Getting started with Pandas",
+                    "Statistics",
+                    "Data Preprocessing",
+                    "Data Analysis",
+                    "Minor Project: Black Friday Sales Data Analysis",
+                    "Minor Project: Data Visualization on Heart Disease Dataset",
+                    "Minor Project: GDP Analysis"
+                ]
+            },
+            {
+                "Machine Learning": [
+                    "Linear Regression",
+                    "Multiple Linear Regression",
+                    "Polynomial Linear Regression",
+                    "Support Vector Machine",
+                    "Decision Tree",
+                    "Random Forest"
+                ]
+            },
+            {
+                "Deep Learning": [
+                    "Perceptrons",
+                    "Multi layer perceptron architecture",
+                    "Convolutional neural network"
+                ]
+            }
+        ],
+        "faq": [
+            {
+                "Do we have doubt support in this program?": "You may get additional feature of doubt support. While purchasing this course, click on 'Add to Cart' for Doubt Support and Assistance."
+            },
+            {
+                "How can I register for the course?": "You need to sign up for the course. After signing up, you need to pay when the payment link opens."
+            },
+            {
+                "What type of certificate will be offered in this program": "Once the course is completed. You'll be getting a course completion certificate."
+            },
+            {
+                "When can I make the payment for the course?": "The payment link will be available on the course page."
+            },
+            {
+                "Will the course content be available after the course end date?": "Course content comes with lifetime validity."
+            },
+            {
+                "What features does Doubt Support have?": "Doubt support helps you clear your doubt of any GFG and codeforces courses/problems. You can raise your doubt anytime. Our doubt support assistance is available 24x7."
+            }
+        ]
+    }
+]
