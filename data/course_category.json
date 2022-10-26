@@ -1,32 +1,38 @@
 [
     {
         "id": "cc201",
-        "name": "DSA",
-        "total_course": 1
+        "name": "Frontend Development",
+        "image": "https://i.postimg.cc/25dCsfLM/froentend.png",
+        "total_course": 0
     },
     {
         "id": "cc202",
         "name": "System Design",
+        "image": "https://i.postimg.cc/V6Yz1Hj6/system-design.png",
         "total_course": 1
     },
     {
         "id": "cc203",
         "name": "Data Science",
+        "image": "https://i.postimg.cc/x88YNJpV/data-science.png",
         "total_course": 1
     },
     {
         "id": "cc204",
         "name": "Backend Development",
+        "image": "https://i.postimg.cc/8Cg1XCcL/backend-dev.png",
         "total_course": 1
     },
     {
         "id": "cc205",
         "name": "Programming Fundamental",
-        "total_course": 2
+        "image": "https://i.postimg.cc/L5WSt9GY/p-fundamental.png",
+        "total_course": 3
     },
     {
         "id": "cc206",
         "name": "Other",
+        "image": "https://i.postimg.cc/VLSmYtbj/other.png",
         "total_course": 2
     }
 ]
