@@ -29,62 +29,48 @@
         ],
         "course-content": [
             {
-                "Introduction": [
+                "title": "Introduction",
+                "content": [
                     "Analysis of Algorithms, Asymptotic Analysis, Order of Growth, Best, Average and Worst Cases, Asymptotic Notations and more."
                 ]
             },
             {
-                "Mathematics": [
+                "title": "Mathematics",
+                "content": [
                     "Python DSA - Count Digits, Palindrome Number, Factorial of a number, Trailing Zeros in Factorial, GCD and HCF of two numbers and more.",
                     "Important Practice Problems"
                 ]
             },
             {
-                "Bit Magic": [
+                "title": "Bit Magic",
+                "content": [
                     "Bitwise Operator in Python, Check Kth bit is set or not, Count Set Bits, Power of Two, One Odd Occuring and more.",
                     "Important Practice Problems"
                 ]
             },
             {
-                "List": [
+                "title": "List",
+                "content": [
                     "Basic - Introduction, Working of List in Python, Average or Mean of a List, Separate Even and Odd, Get Smaller Elements and more",
                     "Advanced - Left Rotate by d Places, Maximum difference, Stock Buy &Sell, Trapping Rainwater, Maximum Consecutive 1s and more",
                     "Important Practice Problems"
                 ]
             },
             {
-                "Recursion": [
+                "title": "Recursion",
+                "content": [
                     "Basic - Applications of Recursion, Writing Base Cases in Recursion, Tail Recursion, Practice For Recursion and more.",
                     "Advanced - Subset of a given string, Printing all Permutations, Tower of Hanoi in Python, Josephus Problem in Python and more.",
                     "Important Practice Problems"
                 ]
             },
             {
-                "Searching": [
+                "title": "Searching",
+                "content": [
                     "Basics - Binary Search in Python, Recursive Binary Search in Python, Analysis of Binary Search, Index of first occurrence in a sorted array and more.",
                     "Advanced - Search in Sorted Rotated Array, Median of two sorted arrays, Repeating Elements Part, Allocate Minimum Pages (Naive Method, Binary Search)",
                     "Important Practice Problems"
                 ]
-            }
-        ],
-        "faq": [
-            {
-                "Do we have doubt support in this program?": "You may get additional feature of doubt support. While purchasing this course, click on 'Add to Cart' for Doubt Support and Assistance."
-            },
-            {
-                "How can I register for the course?": "You need to sign up for the course. After signing up, you need to pay when the payment link opens."
-            },
-            {
-                "What type of certificate will be offered in this program": "Once the course is completed. You'll be getting a course completion certificate."
-            },
-            {
-                "When can I make the payment for the course?": "The payment link will be available on the course page."
-            },
-            {
-                "Will the course content be available after the course end date?": "Course content comes with lifetime validity."
-            },
-            {
-                "What features does Doubt Support have?": "Doubt support helps you clear your doubt of any GFG and codeforces courses/problems. You can raise your doubt anytime. Our doubt support assistance is available 24x7."
             }
         ]
     },
@@ -117,54 +103,40 @@
         ],
         "course-content": [
             {
-                "Python Basics": [
+                "title": "Python Basics",
+                "content": [
                     "Know about background of Python, why do we need Programing Languages, Python Installation and First Program, Comments in Python etc"
                 ]
             },
             {
-                "Variables and Data Types": [
+                "title": "Variables and Data Types",
+                "content": [
                     "Learn about variables in Python, Swap two Variables, Tuples, Set , Dictionary in Python , Type conversion in Python etc"
                 ]
             },
             {
-                "Input and Output in Python": [
+                "title": "Input and Output in Python",
+                "content": [
                     "Get to know all about inputs, outputs and print in Python"
                 ]
             },
             {
-                "Operators": [
+                "title": "Operators",
+                "content": [
                     "Get to know all about Arithmetic Operators, Logical Operators, Membership Test Operators, Bitwise Operators, Find Last Digit in Python etc"
                 ]
             },
             {
-                "Loops": [
+                "title": "Loops",
+                "content": [
                     "Get to know all about For loops, While loops, Nested loops, Break & Continue statements, Printing Triangle Pattern, Factorial, GCD, LCM , Fibonacci numbers, Prime numbers etc"
                 ]
             },
             {
-                "Functions": [
+                "title": "Functions",
+                "content": [
                     "Get to know all about introduction to Functions, Applications of Functions, Default Arguments, Keyword Arguments, Parameter Passing in Python , Global Variables in Python etc"
                 ]
-            }
-        ],
-        "faq": [
-            {
-                "Do we have doubt support in this program?": "You may get additional feature of doubt support. While purchasing this course, click on 'Add to Cart' for Doubt Support and Assistance."
-            },
-            {
-                "How can I register for the course?": "You need to sign up for the course. After signing up, you need to pay when the payment link opens."
-            },
-            {
-                "What type of certificate will be offered in this program": "Once the course is completed. You'll be getting a course completion certificate."
-            },
-            {
-                "When can I make the payment for the course?": "The payment link will be available on the course page."
-            },
-            {
-                "Will the course content be available after the course end date?": "Course content comes with lifetime validity."
-            },
-            {
-                "What features does Doubt Support have?": "Doubt support helps you clear your doubt of any GFG and codeforces courses/problems. You can raise your doubt anytime. Our doubt support assistance is available 24x7."
             }
         ]
     },
@@ -197,52 +169,36 @@
         ],
         "course-content": [
             {
-                "Amazon Test Series": [
+                "title": "Amazon Test Series",
+                "content": [
                     "Practice 200+ questions based on Arrays, Searching, Trees, Graphs etc.",
                     "10 Assessment Tests to prepare you for the Online Coding Round of Amazon Interview process.",
                     "Get Amazon ready through 5 mock tests based on actual Amazon interview experiences."
                 ]
             },
             {
-                "Flipkart Test Series": [
+                "title": "Flipkart Test Series",
+                "content": [
                     "Practice 200+ questions based on topics such as Arrays, Stack, Queue etc.",
                     "10 Assessment Tests to prepare you for the Online Coding Round of Flipkart Interview process.",
                     "Get Flipkart ready through 5 mock tests based on actual Flipkart interview experiences."
                 ]
             },
             {
-                "Microsoft Test Series": [
+                "title": "Microsoft Test Series",
+                "content": [
                     "Solve 200+ questions and polish all the concepts related to DSA",
                     "10 Assessment Tests to prepare you for the Online Coding Round of Microsoft Interview process.",
                     "Get Microsoft ready through 4 mock tests based on actual Microsoft interview experiences."
                 ]
             },
             {
-                "Google Test Series": [
+                "title": "Google Test Series",
+                "content": [
                     "Practice 200+ questions based on Arrays, Searching, Trees, Matrix, Sorting etc.",
                     "10 Assessment Tests to prepare you for the Online Coding Round of Google Interview process.",
                     "Get Google ready through 4 mock tests based on actual Google interview experiences."
                 ]
-            }
-        ],
-        "faq": [
-            {
-                "Do we have doubt support in this program?": "You may get additional feature of doubt support. While purchasing this course, click on 'Add to Cart' for Doubt Support and Assistance."
-            },
-            {
-                "How can I register for the course?": "You need to sign up for the course. After signing up, you need to pay when the payment link opens."
-            },
-            {
-                "What type of certificate will be offered in this program": "Once the course is completed. You'll be getting a course completion certificate."
-            },
-            {
-                "When can I make the payment for the course?": "The payment link will be available on the course page."
-            },
-            {
-                "Will the course content be available after the course end date?": "Course content comes with lifetime validity."
-            },
-            {
-                "What features does Doubt Support have?": "Doubt support helps you clear your doubt of any GFG and codeforces courses/problems. You can raise your doubt anytime. Our doubt support assistance is available 24x7."
             }
         ]
     },
@@ -275,59 +231,46 @@
         ],
         "course-content": [
             {
-                "C++": [
+                "title": "C++",
+                "content": [
                     "Introduction,Basic Input Output,Errors,Operators and much more"
                 ]
             },
             {
-                "Introduction,Variables and Concepts": [
+                "title": "Introduction,Variables and Concepts",
+                "content": [
                     "First C++ Program,Comments in C++,Data Types in C++,Variables in C++ and much more"
                 ]
             },
             {
-                "Flow Control, Function & Loops": [
+                "title": "Flow Control, Function & Loops",
+                "content": [
                     "If Else Syntax in C++,Nested If Else with Example,Functions in C++ and much more"
                 ]
             },
             {
-                "Arrays, String, Pointers & Reference": [
+                "title": "Arrays, String, Pointers & Reference",
+                "content": [
                     "Declaring and Initializing Arrays,Array Traversal in C++ and much more"
                 ]
             },
             {
-                "Structure and Union": [
+                "title": "Structure and Union",
+                "content": [
                     "Struct vs Class in C++,Union in C++,Complex Number Addition Using Structure and much more"
                 ]
             },
             {
-                "C++ OOPS": [
+                "title": "C++ OOPS",
+                "content": [
                     "Object Oriented Programming,This Pointer,Virtual Functions and much more"
                 ]
             },
             {
-                "Advanced": [
+                "title": "Advanced",
+                "content": [
                     "Exception Handling in C++,Try Throw and Catch in C++,Function Pointers and much more"
                 ]
-            }
-        ],
-        "faq": [
-            {
-                "Do we have doubt support in this program?": "You may get additional feature of doubt support. While purchasing this course, click on 'Add to Cart' for Doubt Support and Assistance."
-            },
-            {
-                "How can I register for the course?": "You need to sign up for the course. After signing up, you need to pay when the payment link opens."
-            },
-            {
-                "What type of certificate will be offered in this program": "Once the course is completed. You'll be getting a course completion certificate."
-            },
-            {
-                "When can I make the payment for the course?": "The payment link will be available on the course page."
-            },
-            {
-                "Will the course content be available after the course end date?": "Course content comes with lifetime validity."
-            },
-            {
-                "What features does Doubt Support have?": "Doubt support helps you clear your doubt of any GFG and codeforces courses/problems. You can raise your doubt anytime. Our doubt support assistance is available 24x7."
             }
         ]
     },
@@ -362,54 +305,40 @@
         ],
         "course-content": [
             {
-                "Programming Languages": [
+                "title": "Programming Languages",
+                "content": [
                     "Start from the basics with C++ and Java"
                 ]
             },
             {
-                "Object Oriented Programming": [
+                "title": "Object Oriented Programming",
+                "content": [
                     "Learn all the concepts of OOPs"
                 ]
             },
             {
-                "DSA (Basics to Advanced)": [
+                "title": "DSA (Basics to Advanced)",
+                "content": [
                     "Best in industry DSA learning experience, from basic to advanced"
                 ]
             },
             {
-                "Object Oriented Analysis and Design": [
+                "title": "Object Oriented Analysis and Design",
+                "content": [
                     "Learn the often asked concepts of Object-Oriented Analysis and Design"
                 ]
             },
             {
-                "CS Subjects": [
+                "title": "CS Subjects",
+                "content": [
                     "Also, learn about other important CS subjects like OS, CN, DBMS, etc"
                 ]
             },
             {
-                "Aptitude and Reasoning": [
+                "title": "Aptitude and Reasoning",
+                "content": [
                     "Learn about the frequently asked interview questions"
                 ]
-            }
-        ],
-        "faq": [
-            {
-                "Do we have doubt support in this program?": "You may get additional feature of doubt support. While purchasing this course, click on 'Add to Cart' for Doubt Support and Assistance."
-            },
-            {
-                "How can I register for the course?": "You need to sign up for the course. After signing up, you need to pay when the payment link opens."
-            },
-            {
-                "What type of certificate will be offered in this program": "Once the course is completed. You'll be getting a course completion certificate."
-            },
-            {
-                "When can I make the payment for the course?": "The payment link will be available on the course page."
-            },
-            {
-                "Will the course content be available after the course end date?": "Course content comes with lifetime validity."
-            },
-            {
-                "What features does Doubt Support have?": "Doubt support helps you clear your doubt of any GFG and codeforces courses/problems. You can raise your doubt anytime. Our doubt support assistance is available 24x7."
             }
         ]
     },
@@ -443,64 +372,52 @@
         ],
         "course-content": [
             {
-                "Lecture 1": [
+                "title": "Lecture 1",
+                "content": [
                     "Introduction to SD Interviews, SD Process - UBER, Analysis and Data Modelling"
                 ]
             },
             {
-                "Lecture 2": [
+                "title": "Lecture 2",
+                "content": [
                     "Design of Large Scale System, Trade-offs - TWITTER, Analysis and Data Modelling"
                 ]
             },
             {
-                "Lecture 3": [
+                "title": "Lecture 3",
+                "content": [
                     "Load Balancers, SSL Termination and Passthrough, Reverse Proxy and Problem Design"
                 ]
             },
             {
-                "Lecture 4": [
+                "title": "Lecture 4",
+                "content": [
                     "Web Sockets & Fb Messenger Design, Monoliths & Microservices"
                 ]
             },
             {
-                "Lecture 5": [
+                "title": "Lecture 5",
+                "content": [
                     "O Auth 2, JWT Tokens and Problem Design"
                 ]
             },
             {
-                "Lecture 6": [
+                "title": "Lecture 6",
+                "content": [
                     "CDN, Caching and Problem Design"
                 ]
             },
             {
-                "Lecture 7": [
+                "title": "Lecture 7",
+                "content": [
                     "API Gateway, DNS, HTTPS, Zookeeper and Problem Design"
                 ]
             },
             {
-                "Lecture 8": [
+                "title": "Lecture 8",
+                "content": [
                     "Data Distribution in Large-scale System, Hashing and Problem Design"
                 ]
-            }
-        ],
-        "faq": [
-            {
-                "Do we have doubt support in this program?": "You may get additional feature of doubt support. While purchasing this course, click on 'Add to Cart' for Doubt Support and Assistance."
-            },
-            {
-                "How can I register for the course?": "You need to sign up for the course. After signing up, you need to pay when the payment link opens."
-            },
-            {
-                "What type of certificate will be offered in this program": "Once the course is completed. You'll be getting a course completion certificate."
-            },
-            {
-                "When can I make the payment for the course?": "The payment link will be available on the course page."
-            },
-            {
-                "Will the course content be available after the course end date?": "Course content comes with lifetime validity."
-            },
-            {
-                "What features does Doubt Support have?": "Doubt support helps you clear your doubt of any GFG and codeforces courses/problems. You can raise your doubt anytime. Our doubt support assistance is available 24x7."
             }
         ]
     },
@@ -533,21 +450,24 @@
         ],
         "course-content": [
             {
-                "Week 01": [
+                "title": "Week 01",
+                "content": [
                     "Java OOPS Concepts: Object, Class, Inheritance,Polymorphism, Abstraction, Encapsulation",
                     "Exception Handling in Java",
                     "Java Collection"
                 ]
             },
             {
-                "Week 02": [
+                "title": "Week 02",
+                "content": [
                     "Streams and File Handling in Java",
                     "Threads in Java: Multithreading related concepts, problems and their solutions",
                     "Maven"
                 ]
             },
             {
-                "Week 03": [
+                "title": "Week 03",
+                "content": [
                     "Introduction to Web Services",
                     "Introduction Spring Framework",
                     "Introduction to Spring Boot",
@@ -555,7 +475,8 @@
                 ]
             },
             {
-                "Week 04": [
+                "title": "Week 04",
+                "content": [
                     "RESTful APIs",
                     "Introduction to MySql",
                     "JDBC (Java Database Connectivity)",
@@ -563,43 +484,26 @@
                 ]
             },
             {
-                "Week 05": [
+                "title": "Week 05",
+                "content": [
                     "Introduction to JPA, Hibernate & Spring Data",
                     "Minor Project 1: Developing a Web App (Micro-service) using Spring Boot + Hibernate + MySQL + RESTful A"
                 ]
             },
             {
-                "Week 06": [
+                "title": "Week 06",
+                "content": [
                     "Redis",
                     "Redis with Spring Boot",
                     "Spring Security"
                 ]
             },
             {
-                "Week 07": [
+                "title": "Week 07",
+                "content": [
                     "OAuth 2.0",
                     "Minor Project 2: Developing a Web App (Micro-service) using Spring Boot + Hibernate + MySQL+ RESTful APIs + OAuth 2 + Security"
                 ]
-            }
-        ],
-        "faq": [
-            {
-                "Do we have doubt support in this program?": "You may get additional feature of doubt support. While purchasing this course, click on 'Add to Cart' for Doubt Support and Assistance."
-            },
-            {
-                "How can I register for the course?": "You need to sign up for the course. After signing up, you need to pay when the payment link opens."
-            },
-            {
-                "What type of certificate will be offered in this program": "Once the course is completed. You'll be getting a course completion certificate."
-            },
-            {
-                "When can I make the payment for the course?": "The payment link will be available on the course page."
-            },
-            {
-                "Will the course content be available after the course end date?": "Course content comes with lifetime validity."
-            },
-            {
-                "What features does Doubt Support have?": "Doubt support helps you clear your doubt of any GFG and codeforces courses/problems. You can raise your doubt anytime. Our doubt support assistance is available 24x7."
             }
         ]
     },
@@ -633,7 +537,8 @@
         ],
         "course-content": [
             {
-                "Getting Started with Python": [
+                "title": "Getting Started with Python",
+                "content": [
                     "Python Basics",
                     "Loops in Python",
                     "Functions in Python",
@@ -642,26 +547,30 @@
                 ]
             },
             {
-                "Files and JSON": [
+                "title": "Files and JSON",
+                "content": [
                     "Getting started with Files",
                     "Minor Project: Inventory Management System with Files",
                     "Minor Project: Inventory Management System with JSON"
                 ]
             },
             {
-                "OS with Python": [
+                "title": "OS with Python",
+                "content": [
                     "Getting started with OS",
                     "Jupyter Notebook Setup",
                     "OS with Python"
                 ]
             },
             {
-                "Mastering Numpy Arrays": [
+                "title": "Mastering Numpy Arrays",
+                "content": [
                     "Mastering Numpy Arrays"
                 ]
             },
             {
-                "Data Analysis with Python": [
+                "title": "Data Analysis with Python",
+                "content": [
                     "Getting started with Pandas",
                     "Statistics",
                     "Data Preprocessing",
@@ -672,7 +581,8 @@
                 ]
             },
             {
-                "Machine Learning": [
+                "title": "Machine Learning",
+                "content": [
                     "Linear Regression",
                     "Multiple Linear Regression",
                     "Polynomial Linear Regression",
@@ -682,31 +592,12 @@
                 ]
             },
             {
-                "Deep Learning": [
+                "title": "Deep Learning",
+                "content": [
                     "Perceptrons",
                     "Multi layer perceptron architecture",
                     "Convolutional neural network"
                 ]
-            }
-        ],
-        "faq": [
-            {
-                "Do we have doubt support in this program?": "You may get additional feature of doubt support. While purchasing this course, click on 'Add to Cart' for Doubt Support and Assistance."
-            },
-            {
-                "How can I register for the course?": "You need to sign up for the course. After signing up, you need to pay when the payment link opens."
-            },
-            {
-                "What type of certificate will be offered in this program": "Once the course is completed. You'll be getting a course completion certificate."
-            },
-            {
-                "When can I make the payment for the course?": "The payment link will be available on the course page."
-            },
-            {
-                "Will the course content be available after the course end date?": "Course content comes with lifetime validity."
-            },
-            {
-                "What features does Doubt Support have?": "Doubt support helps you clear your doubt of any GFG and codeforces courses/problems. You can raise your doubt anytime. Our doubt support assistance is available 24x7."
             }
         ]
     }
